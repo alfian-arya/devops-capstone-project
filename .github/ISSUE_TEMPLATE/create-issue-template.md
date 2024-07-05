@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
+name: Create Issue Template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: ''
+assignees: alfian-arya
 
 ---
 
